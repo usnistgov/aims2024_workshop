@@ -20,4 +20,4 @@ Austin (GP, Active learning)
 
 Brian/Kamal/Dan (GNN)
 
-
+https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
