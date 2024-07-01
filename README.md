@@ -8,13 +8,11 @@ Supervised vs Non-supervised vs Clustering
 
 Algorithms: Linear, Lasso, GP, NN, GNN
 
-NN (Peter):
+NN (Peter): Foundational Concepts of Artificial Intelligence-Based Modeling
 
-          How to classify Neural Networks?
-          How to classify tasks and datasets?
-          What happens during NN training?
-          Is my NN model good?
-          How to learn basic Neural Network concepts interactively?
+          1. Why are we interested in Neural Networks?
+          2. How to create a complex boundary separating two classes?
+          3. How do you learn primitive Neural network concepts interactively?
 
 Austin (GP, Active learning)
 
