@@ -1,5 +1,7 @@
 # aims2024_workshop
 
+(More details coming soon)
+
 Outline:
 
 AI,ML,DL
