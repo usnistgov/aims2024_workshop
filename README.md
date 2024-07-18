@@ -1,23 +1,41 @@
-# aims2024_workshop
+# AIMS_2024_workshop
 
-(More details coming soon)
+### JARVIS AIMS Event page: 
 
-Outline:
+https://jarvis.nist.gov/events/aims
 
-AI,ML,DL
+### Agenda: 
 
-Supervised vs Non-supervised vs Clustering
+https://www.nist.gov/news-events/events/2024/07/2024-artificial-intelligence-materials-science-aims-workshop
 
-Algorithms: Linear, Lasso, GP, NN, GNN
+### Intro Presentation: 
 
-NN (Peter): Foundational Concepts of Artificial Intelligence-Based Modeling
+https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf 
 
-          1. Why are we interested in Neural Networks?
-          2. How to create a complex boundary separating two classes?
-          3. How do you learn primitive Neural network concepts interactively?
+## Hands on session:
 
-Austin (GP, Active learning)
+### Part-1: 
 
-Brian/Kamal/Dan (GNN)
+https://pages.nist.gov/nn-calculator/
+
+### Part-2: 
+
+https://colab.research.google.com/github/mannodiarun/mrs_spring_tutorial/blob/GP_and_AL/GP_and_AL/Gaussian_Processes.ipynb
+
+### Part-3: 
+
+3.1 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Basic_ML.ipynb
+
+3.2 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/alignn_jarvis_leaderboard.ipynb
+
+3.3 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Train_ALIGNNFF_Mlearn.ipynb
+
+3.4 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/atomgpt_example.ipynb
+
+3.5 (optional) https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/AtomVisionImageClassification.ipynb
+
+
+
+For more notebooks see, JARVIS-Tools-Notebooks, the largest set of collections of materials design notebooks:
 
 https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
