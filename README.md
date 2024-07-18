@@ -24,9 +24,9 @@ https://colab.research.google.com/github/mannodiarun/mrs_spring_tutorial/blob/GP
 
 ### Part-3: 
 
-3.1 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb
+3.1 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_QuantumEspressoColab_Basic_Example.ipynb
 
-3.2 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/JARVIS_QuantumEspressoColab_Basic_Example.ipynb#scrollTo=YYF-iR3aUOY3
+3.2 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Analyzing_data_in_the_JARVIS_DFT_dataset.ipynb
 
 3.3 https://colab.research.google.com/github/knc6/jarvis-tools-notebooks/blob/master/jarvis-tools-notebooks/Basic_ML.ipynb
 
@@ -40,6 +40,6 @@ https://colab.research.google.com/github/mannodiarun/mrs_spring_tutorial/blob/GP
 
 
 
-For more notebooks see, JARVIS-Tools-Notebooks, the largest set of collections of materials design notebooks:
+For more notebooks see, JARVIS-Tools-Notebooks, the largest collection of materials design notebooks:
 
 https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
