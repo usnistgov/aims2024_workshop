@@ -12,7 +12,9 @@ https://www.nist.gov/news-events/events/2024/07/2024-artificial-intelligence-mat
 
 https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf 
 
-## Hands on session:
+### Hands on session:
+
+https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS_handson_2024_slides.pdf
 
 ### Part-1: 
 
