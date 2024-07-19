@@ -42,10 +42,11 @@ https://pages.nist.gov/nn-calculator/
 
 [Gaussian_Processes](https://colab.research.google.com/github/mannodiarun/mrs_spring_tutorial/blob/GP_and_AL/GP_and_AL/Gaussian_Processes.ipynb)
 
+[Active Learning](https://colab.research.google.com/github/mannodiarun/mrs_spring_tutorial/blob/GP_and_AL/GP_and_AL/Active_Learning.ipynb)
 
 
 
 
-For more notebooks see, JARVIS-Tools-Notebooks, the largest collection of materials design notebooks:
+Additional Reference: JARVIS-Tools-Notebooks, the largest collection of materials design notebooks:
 
 https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
