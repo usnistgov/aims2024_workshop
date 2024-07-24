@@ -8,9 +8,11 @@
 
 [Agenda](https://www.nist.gov/news-events/events/2024/07/2024-artificial-intelligence-materials-science-aims-workshop)
 
-### Introducion: 
+### Day 1
 
-*Welcome and Logistics, Kamal Choudhary [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
+## Introducion: 
+
+* Welcome and Logistics, Kamal Choudhary [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
 
 ### Hands on session:
 
