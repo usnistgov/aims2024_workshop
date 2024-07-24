@@ -11,8 +11,8 @@
 ### Day 1
 
 ### Introduction: 
-
-* Welcome and Logistics, Kamal Choudhary [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
+* "Opening Remarks", Jim Warren (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS-2024-JamesWarren.pdf)
+* "Welcome and Logistics", Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
 
 ### Hands on session:
 
