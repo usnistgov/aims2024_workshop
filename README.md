@@ -2,7 +2,7 @@
 
 ### JARVIS AIMS Event page: 
 
-https://jarvis.nist.gov/events/aims
+[Event Page](https://jarvis.nist.gov/events/aims)
 
 ### Agenda: 
 
