@@ -10,7 +10,7 @@
 
 ### Day 1
 
-## Introducion: 
+### Introduction: 
 
 * Welcome and Logistics, Kamal Choudhary [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Kamal_AIMS_intro_2024.pptx.pdf)
 
