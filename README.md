@@ -20,6 +20,14 @@
 * "Unleashing the Power of Artificial Intelligence for Phonon Thermal Transport", Ming Hu (University of South Carolina). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Ming_Hu_Seminar_NIST_AIMS_20240717.pdf)
 * "Machine learning models for accelerating materials discovery", Christopher Sutton (University of South Carolina). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST_071624_Sutton.pdf)
 * "Accelerating Scientific Discovery in Catalysis with Artificial Intelligence", Hongliang Xin (Virginia Tech). 
+### Session 2:
+* "Integrating Autonomous Systems for Advanced Material Discovery: Bridging Experiments and Theory Through Optimized Rewards", Sergei Kalinin (UT Knoxville and PNNL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST_2024_Rewards_v2a_Kalinin.pdf)
+* "HPC+AI-enabled Materials Characterization and Experimental Automation", Mathew Cherukara (ANL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Cherukara_AI_APS_NIST.pdf)
+* "Targeted AI-Driven Materials Discovery", Chris Stiles (JHUAPL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Stiles_NIST-AIMS_ELEM3NT%2020240711_v4_f2.pdf)
+* "Algorithms and opportunities for self-driving laboratories: model-based control, physics discovery, and co-navigating theory and experiments", Rama Vasudevan (ORNL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Rama_Vasudevan_NIST_AIMS.pdf)
+* "Theory-informed AI/ML for materials characterization", Maria Chan (ANL).
+* "Data-driven approaches to lattice dynamics and vibrational spectroscopy", Yongqiang Cheng (ORNL).
+### Session 3:
 
 ### Hands on session:
 
