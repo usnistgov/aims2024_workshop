@@ -27,7 +27,19 @@
 * "Algorithms and opportunities for self-driving laboratories: model-based control, physics discovery, and co-navigating theory and experiments", Rama Vasudevan (ORNL). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Rama_Vasudevan_NIST_AIMS.pdf)
 * "Theory-informed AI/ML for materials characterization", Maria Chan (ANL).
 * "Data-driven approaches to lattice dynamics and vibrational spectroscopy", Yongqiang Cheng (ORNL).
+
+### Day 3
+
 ### Session 3:
+* "Data Standards: the key enabler of AI-driven materials science at the nanoscale", Timur Bazhirov (Mat3ra). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Timur%20Bazhirov%20-%202024-07-18%20-%20NIST%20AIMS.pdf)
+* "Chemical Foundation Models for Complex Materials", Vidushi Sharma (IBM). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Vidushi_Sharma_AIMS_2024.pdf)
+* "A Practical Guide to Building with LLMs", Eddie Kim (Cohere). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST%20-%20Eddie%20Kim%20-%20July%202024.pdf)
+* "Beyond Experimental Structures: Advancing Materials Discovery with Generative AI", Anuroop Sriam (Meta). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Anuroop%20Sriram%20AIMS.pdf)
+* "Accelerating materials design with AI emulators and generators", Tian Xie (Microsoft).
+* "Combining machine-learning, physics, and infrastructure to accelerate materials research", Ale Strachan (Purdue).
+* "Improving machine learning with polymer physics", Debra Audus (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Audus_AIMS_forposting.pdf)
+* "Integrated Data Science and Computational Materials Science in Complex Materials", Dilpuneet Aidhy (Clemson). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/2024%20Aidhy-%20NIST%20Presentation.pdf)
+### Session 4:
 
 ### Hands on session:
 
