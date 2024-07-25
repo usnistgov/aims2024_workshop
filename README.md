@@ -40,6 +40,10 @@
 * "Improving machine learning with polymer physics", Debra Audus (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/Audus_AIMS_forposting.pdf)
 * "Integrated Data Science and Computational Materials Science in Complex Materials", Dilpuneet Aidhy (Clemson). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/2024%20Aidhy-%20NIST%20Presentation.pdf)
 ### Session 4:
+* "Sampling Strategies for Robust MLIPs", Michael Waters (Northwestern). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS_2024_mjwaters_final.pdf)
+* "Random Sampling of Chemical Space", Guido von Rudorff (U. of Kassel). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/von_Rudorff.pdf)
+* "Data-driven microstructure-property mapping: the importance of microstructure representation", Olga Wodo (Buffalo). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/OWodo-AIMs.pptx.pdf)
+* "Artificial Intelligence for Materials Geometric Representation Learning and High Tensor Order Property Predictions", Keqiang Yan (TAMU). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST-KeqiangYan.pdf)
 
 ### Hands on session:
 
