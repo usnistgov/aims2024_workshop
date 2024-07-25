@@ -45,13 +45,13 @@
 * "Data-driven microstructure-property mapping: the importance of microstructure representation", Olga Wodo (Buffalo). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/OWodo-AIMs.pptx.pdf)
 * "Artificial Intelligence for Materials Geometric Representation Learning and High Tensor Order Property Predictions", Keqiang Yan (TAMU). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/NIST-KeqiangYan.pdf)
 
-### Hands on session:
+### Hands-on session:
 
-https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS_handson_2024_slides.pdf
+Overview Slides for Hands-on, Peter Bajcsy, Austin McDannald, Brian DeCost, Daniel Wines, Kamal Choudhary (NIST). [Slides PDF](https://github.com/usnistgov/aims2024_workshop/blob/main/AIMS_handson_2024_slides.pdf)
 
 ### Part-1: 
 
-https://pages.nist.gov/nn-calculator/
+[NN-Calculator](https://pages.nist.gov/nn-calculator/)
 
 ### Part-2: 
 
